@@ -1,0 +1,6 @@
+E:\Project\Practice\csharp_practice_gpa\bin\Debug\csharp_practice_gpa.exe
+E:\Project\Practice\csharp_practice_gpa\bin\Debug\csharp_practice_gpa.pdb
+E:\Project\Practice\csharp_practice_gpa\obj\Debug\csharp_practice_gpa.csproj.AssemblyReference.cache
+E:\Project\Practice\csharp_practice_gpa\obj\Debug\csharp_practice_gpa.csproj.CoreCompileInputs.cache
+E:\Project\Practice\csharp_practice_gpa\obj\Debug\csharp_practice_gpa.exe
+E:\Project\Practice\csharp_practice_gpa\obj\Debug\csharp_practice_gpa.pdb
